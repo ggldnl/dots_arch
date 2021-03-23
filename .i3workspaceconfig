@@ -1,0 +1,17 @@
+{
+    "classes": {
+        "firefox": " firefox",
+        "kitty": " term",
+        "atom": "ﱦ atom",
+        "spotify": " spotify",
+        "gnome-terminal": " term",
+        "libreoffice-writer": " writer",
+        "libreoffice-calc": " calc"
+    },
+    "instances": {
+        "chromium-browser": "chrome"
+    },
+    "staticnames": {
+
+    }
+}
